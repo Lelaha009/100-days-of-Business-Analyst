@@ -1,3 +1,10 @@
+`Part 1: Overview and SQL`
+- define of databases
+- relational databases (SQL), tools: MySQL, Oracle, postegreSQL, maria DB...
+- non-relational database (noSQL), tools: mongo DB, dynamoDB, firebase...
+## SQL
+- 
+
 ### day 1
 Overview database and introduction to SQL
 ### day 2
